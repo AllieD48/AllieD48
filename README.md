@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @AllieD48
-- 👀 I’m interested in ...Linux  
-- 🌱 I’m currently learning ...AWS and Networking+  
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...Tips and advice for faster and easier concepts  
 - 📫 How to reach me ...GitHub!
   
